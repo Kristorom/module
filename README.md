@@ -1,6 +1,4 @@
-# React Project: Personal Profile
-
-## Проєкт створений для демонстрації базових навичок роботи з React та React Router.
+# React Project
 
 ### Основна інформація
 - Ім'я: Khrystyna Stadnyk
@@ -17,10 +15,10 @@
 
 ### Скріншоти
 - **Page1 (місто)**  
-  ![Page1 Screenshot](path/to/screenshot1.png)
+  ![Page1 Screenshot](./screenshots/image.png)
 
 - **Page2 (хоббі)**  
-  ![Page2 Screenshot](path/to/screenshot2.png)
+  ![Page2 Screenshot](./screenshots/image2.png)
 
 ### Запуск проєкту
 У каталозі проєкту виконайте:
