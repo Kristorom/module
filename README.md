@@ -15,10 +15,10 @@
 
 ### Скріншоти
 - **Page1 (місто)**  
-  ![Page1 Screenshot](./screenshots/image.png)
+  ![Page1 Screenshot](./screenshots/imag2.png)
 
 - **Page2 (хоббі)**  
-  ![Page2 Screenshot](./screenshots/image2.png)
+  ![Page2 Screenshot](./screenshots/image.png)
 
 ### Запуск проєкту
 У каталозі проєкту виконайте:
